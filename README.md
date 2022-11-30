@@ -40,16 +40,17 @@ http://jekyllthemes.org/ 사이트에 접속해 마음에 드는 테마를 찾�
 ## 2._config.yml 수정
  fork한 파일들 중 _config.yml에 들어가 내가 원하는 정보로 수정을 했다.
  
- <img src="사진 업로드/edit.png" width="400">
- <img src="사진 업로드/blogimg.png" width="400">
+ <img src="사진 업로드/edit.png" width="400">    
+ <img src="사진 업로드/blogimg.png" width="400">    
  
 ## 3. 포스팅하기
  블로그에 글을 포스팅 하기 위해서는 _post라는 폴더가 필요하다. 내 깃허브와 연결되어있는 디렉토리에 _posts라는 폴더를 생성해준다. 
-  <img src="사진 업로드/포스팅1.png" width="400">  
+  <img src="사진 업로드/포스팅1.png" width="400">    
   그 후 마크다운 형식의 파일을 만들어 마크다운 형식에 맞게 블로그에 포스팅할 글을 작성해주었다.  
-   <img src="사진 업로드/포스팅2.png" width="400">   
-   그 결과 내 블로그 주소에 들어가면 
-   <img src="사진 업로드/포스팅3.png" width="400"> 같은 내용의 글이 업로드가 된 것을 확인할 수 있다.
+   <img src="사진 업로드/포스팅2.png" width="400">    
+   그 결과 내 블로그 주소에 들어가면   
+   <img src="사진 업로드/포스팅3.png" width="400">   
+  이와 같은 내용의 글이 업로드가 된 것을 확인할 수 있다.
 ## 4. 댓글 기능 넣기
  disqus가 아닌 utterances를 이용했다. https://github.com/ansohxxn/comments에 들어가 install을 클릭해 Only Select Repositories를 눌렀다. install을 하고 나면 다음과 같은 페이지가 뜬다. 
  <img src="사진 업로드/댓글1.png" width="400">   
@@ -59,5 +60,5 @@ http://jekyllthemes.org/ 사이트에 접속해 마음에 드는 테마를 찾�
  <img src="사진 업로드/댓글3.png" width="400">     
  <img src="사진 업로드/댓글4.png" width="400">  
  이 과정을 모두 완료하면 
- <img src="사진 업로드/댓글5.png" width="400"> 
+ <img src="사진 업로드/댓글5.png" width="400">   
  포스팅한 글 아래 부분에 댓글 입력창이 뜬다.
