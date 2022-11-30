@@ -46,10 +46,10 @@ http://jekyllthemes.org/ 사이트에 접속해 마음에 드는 테마를 찾�
 ## 3. 포스팅하기
  블로그에 글을 포스팅 하기 위해서는 _post라는 폴더가 필요하다. 내 깃허브와 연결되어있는 디렉토리에 _posts라는 폴더를 생성해준다. 
   <img src="사진 업로드/포스팅1.png" width="400">  
-  그 후 마크다운 형식의 파일을 만들어 마크다운 형식에 맞게 블로그에 포스팅할 글을 작성해주었다.
-   <img src="사진 업로드/포스팅2.png" width="400">
+  그 후 마크다운 형식의 파일을 만들어 마크다운 형식에 맞게 블로그에 포스팅할 글을 작성해주었다.  
+   <img src="사진 업로드/포스팅2.png" width="400">   
    그 결과 내 블로그 주소에 들어가면 
-   <img src="사진 업로드/포스팅3.png" width="400"> 같은 내용의 글이 업로드가 된 것을 확인
+   <img src="사진 업로드/포스팅3.png" width="400"> 같은 내용의 글이 업로드가 된 것을 확인할 수 있다.
 ## 4. 댓글 기능 넣기
  disqus가 아닌 utterances를 이용했다. https://github.com/ansohxxn/comments에 들어가 install을 클릭해 Only Select Repositories를 눌렀다. install을 하고 나면 다음과 같은 페이지가 뜬다. 
  <img src="사진 업로드/댓글1.png" width="400">   
