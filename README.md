@@ -58,10 +58,10 @@ http://jekyllthemes.org/ 사이트에 접속해 마음에 드는 테마를 찾�
  <img src="사진 업로드/댓글1.png" width="400">   
  
  
- <img src="사진 업로드/댓글2.png" width="400">   
+ <img src="사진 업로드/댓글2.png" width="400">          
  
- repo에 댓글을 넣을 공간을 입력해주고 블로그 포스트 부분을 선택했다.  
- 그 후 블로그 코드를 _config.yml에 반영해주었다. 
+ repo에 댓글을 넣을 공간을 입력해주고 블로그 포스트 부분을 선택했다.        
+ 그 후 블로그 코드를 _config.yml에 반영해주었다.      
  <img src="사진 업로드/댓글3.png" width="400">      
  
  <img src="사진 업로드/댓글4.png" width="400">   
