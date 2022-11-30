@@ -25,3 +25,4 @@ last_modified_at: 2022-11-30
 2. _config.yml 파일에 들어가 내용을 수정한다.
 ![ga3](https://user-images.githubusercontent.com/105484114/204745052-11f07a62-a03f-4fbd-b223-2f2aac5ac57d.png)
 3. 그 후 google analytics에 접속해 확인하면 분석이 되는 것을 확인할 수 있다. 
+![ga4](https://user-images.githubusercontent.com/105484114/204747865-1c6f5c47-0c76-4659-abb2-61fe5ab3a9a1.png)
