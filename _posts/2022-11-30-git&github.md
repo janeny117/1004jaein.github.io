@@ -49,16 +49,17 @@ last_modified_at: 2022-11-30
 
 ## 2. 사용법
 1. repository 생성
-<img src="사진 업로드/create_repository.png" width="400">
+![create_repository](https://user-images.githubusercontent.com/105484114/204723267-fd79fa86-2620-4311-bfa5-0d505e159183.png)
 
 2. git clone 저장소 주소
-<img src="사진 업로드/clone.png" width="400">
+![clone](https://user-images.githubusercontent.com/105484114/204723251-4ff076c2-c6ac-4281-8e58-bff02d09133b.png)
 
 3. git add로 변경 추가
 <![add](https://user-images.githubusercontent.com/105484114/204723109-35a36c96-7266-4985-863c-cad90dd3b261.png)
 
 4. git commit으로 메세지 남기기
- <img src="사진 업로드/commit.png" width="400">
+ ![commit](https://user-images.githubusercontent.com/105484114/204723260-9596dc0b-532b-4ab1-91e7-3e4feee551cd.png)
 
 5. git push로 원격저장소로 push
-<img src="사진 업로드/push.png" width="400">
+![push](https://user-images.githubusercontent.com/105484114/204723345-2cd4b585-0538-470b-931c-e1c366e3976a.png)
+
