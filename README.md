@@ -52,16 +52,24 @@ http://jekyllthemes.org/ 사이트에 접속해 마음에 드는 테마를 찾�
    <img src="사진 업로드/포스팅3.png" width="400">   
   이와 같은 내용의 글이 업로드가 된 것을 확인할 수 있다.
 ## 4. 댓글 기능 넣기
- disqus가 아닌 utterances를 이용했다. https://github.com/ansohxxn/comments에 들어가 install을 클릭해 Only Select Repositories를 눌렀다. install을 하고 나면 다음과 같은 페이지가 뜬다. 
+ disqus가 아닌 utterances를 이용했다. https://github.com/ansohxxn/comments에 들어가 install을 클릭해 Only Select Repositories를 눌렀다. install을 하고 나면 다음과 같은 페이지가 뜬다.
+ 
+ 
  <img src="사진 업로드/댓글1.png" width="400">   
+ 
+ 
  <img src="사진 업로드/댓글2.png" width="400">   
+ 
  repo에 댓글을 넣을 공간을 입력해주고 블로그 포스트 부분을 선택했다.  
  그 후 블로그 코드를 _config.yml에 반영해주었다. 
  <img src="사진 업로드/댓글3.png" width="400">      
  
- <img src="사진 업로드/댓글4.png" width="400">    
+ <img src="사진 업로드/댓글4.png" width="400">   
+ 
  이 과정을 모두 완료하면 
- <img src="사진 업로드/댓글5.png" width="400">     
+ 
+ <img src="사진 업로드/댓글5.png" width="400">  
+ 
  포스팅한 글 아래 부분에 댓글 입력창이 뜬다.
 
 ## 5. 파비콘 넣기
