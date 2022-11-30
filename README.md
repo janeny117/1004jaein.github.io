@@ -72,3 +72,6 @@ http://jekyllthemes.org/ 사이트에 접속해 마음에 드는 테마를 찾�
  <img src="사진 업로드/파비콘2.png" width="400">     
  
  <img src="사진 업로드/파비콘3.png" width="400">   
+ 
+ 그러면 
+  <img src="사진 업로드/파비콘적용.png" width="400">   
