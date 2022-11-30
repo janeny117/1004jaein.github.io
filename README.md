@@ -44,10 +44,9 @@ http://jekyllthemes.org/ 사이트에 접속해 마음에 드는 테마를 찾�
  <img src="사진 업로드/blogimg.png" width="400">
 ## 3. 댓글 기능 넣기
  disqus가 아닌 utterances를 이용했다. https://github.com/ansohxxn/comments에 들어가 install을 클릭해 Only Select Repositories를 눌렀다. install을 하고 나면 다음과 같은 페이지가 뜬다. 
- ![댓글1](https://user-images.githubusercontent.com/105484114/204726954-0ccddd07-3ecc-4462-afce-0b33a4ae024c.png)
-![댓글2](https://user-images.githubusercontent.com/105484114/204726960-39a9cf6e-9059-493b-9ab0-7913e6e043cc.png)
-
+ <img src="사진 업로드/댓글1.png" width="400">   
+ <img src="사진 업로드/댓글2.png" width="400">   
  repo에 댓글을 넣을 공간을 입력해주고 블로그 포스트 부분을 선택했다.  
  그 후 블로그 코드를 _config.yml에 반영해주었다. 
- <img src="사진 업로드/댓글3.png" width="400">   
+ <img src="사진 업로드/댓글3.png" width="400">     
  <img src="사진 업로드/댓글4.png" width="400">  
