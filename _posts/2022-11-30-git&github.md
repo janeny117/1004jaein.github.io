@@ -55,7 +55,7 @@ last_modified_at: 2022-11-30
 <img src="사진 업로드/clone.png" width="400">
 
 3. git add로 변경 추가
-<img src="사진 업로드/add.png" width="400">
+<![add](https://user-images.githubusercontent.com/105484114/204723109-35a36c96-7266-4985-863c-cad90dd3b261.png)
 
 4. git commit으로 메세지 남기기
  <img src="사진 업로드/commit.png" width="400">
