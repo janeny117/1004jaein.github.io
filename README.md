@@ -62,3 +62,11 @@ http://jekyllthemes.org/ 사이트에 접속해 마음에 드는 테마를 찾�
  이 과정을 모두 완료하면 
  <img src="사진 업로드/댓글5.png" width="400">   
  포스팅한 글 아래 부분에 댓글 입력창이 뜬다.
+
+## 5. 파비콘 넣기
+ https://favicon.io/emoji-favicons/ 사이트에 접속해 마음에 드는 이모티콘을 선택했다.
+ 그 후 압축을 풀어 내 블로그 최상위 로컬폴더로 옮기고  https://realfavicongenerator.net/에 있는 select your favicon image를 눌러 업로드한다.   
+  <img src="사진 업로드/파비콘1.png" width="400">
+ 그 후 만들어진 코드를 복사해 includes/head/에 있는 custom.html에 붙여 넣으면 된다. 
+ <img src="사진 업로드/파비콘2.png" width="400">   
+ <img src="사진 업로드/파비콘3.png" width="400">   
