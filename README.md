@@ -35,94 +35,16 @@ Create a new repository를 눌러 깃허브를 만들 공간을 만들었다. �
 http://jekyllthemes.org/ 사이트에 접속해 마음에 드는 테마를 찾았다. 
 <img src="사진 업로드/jtheme.png" width="400">
 
- devlopr이라는 테마를 선택해 홈페이지에 들어가 fork하는 방식을 선택했다.
+ minimal mistakes라는 테마를 선택해 홈페이지에 들어가 fork하는 방식을 선택했다.
  
 ## 2._config.yml 수정
  fork한 파일들 중 _config.yml에 들어가 내가 원하는 정보로 수정을 했다.
  
  <img src="사진 업로드/edit.png" width="400">
  <img src="사진 업로드/blogimg.png" width="400">
-## 3. 댓글 기능 넣기 
-
-# 4. 이텔릭체(기울어진 글씨) 작성
-
-
-# 5. 굵은 글씨 작성
-
-
-# 6. 인용
-> 인용1
-
-> 인용2
->> 인용안의 인용
-
-# 7. 수평선 넣기
-
----
-  
-# 8. 링크 달기
-(1) 인라인 링크  
-
-[블로그 주소](https://lsh424.tistory.com/)
-
-(2) 참조 링크  
-
-[블로그 주소][blog]
-
-[blog]: https://lsh424.tistory.com/
-
-# 9. 이미지 추가하기
-![이탈리아 포지타노](https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg)
-
-### 이미지 사이즈 조절
-<img src="https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg"  width="700" height="370">
-
-### 이미지 파일로 추가하기
-<img src="회원가입.png" width="700">
-
-# 10. 코드블럭 추가하기
-
-```swift
-public struct CGSize {
-  public var width: CGFloat
-  public var heigth: CGFloat
-  ...
-}
-```
-
-# etc
-
-**텍스트 굵게**  
-~~텍스트 취소선~~
-
-### [개행]  
-
-스페이스바를 통한 문장개행  
-스페이스바를 통한 문장개행  
-
-br태그를 사용한 문장개행
-<br>
-<br>
-br태그를 사용한 문장개행
-
-
-### [체크박스]
-
-다음과 같이 체크박스를 표현 할 수 있습니다. 
-* [x] 체크박스
-* [ ] 빈 체크박스
-* [ ] 빈 체크박스
-
-### [이모지 넣기]
-❤️💜💙🤍
-
-### [표 넣기]
-|왼쪽 정렬|가운데 정렬|오른쪽 정렬| 
-|:---|:---:|---:| 
-|내용1|내용2|내용3| 
-|내용1|내용2|내용3| 
-
-<br>
-
-### 정리내용
-[정리 내용 보기](https://lsh424.tistory.com/37)
+## 3. 댓글 기능 넣기
+ disqus가 아닌 utterances를 이용했다. https://github.com/ansohxxn/comments에 들어가 install을 클릭해 Only Select Repositories를 눌렀다. install을 하고 나면 다음과 같은 페이지가 뜬다. 
+ <img src="사진 업로드/댓글1.png" width="400">   
+ <img src="사진 업로드/댓글2.png" width="400">   
+ repo에 댓글을 넣을 공간을 입력해주고 블로그 포스트 부분을 선택했다.  
+ 그 후 블로그 코드를 _config.yml에 반영해주었다. 
